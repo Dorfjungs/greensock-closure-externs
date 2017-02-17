@@ -1,0 +1,19 @@
+{
+	"name": "dj-greensock-closure-externs",
+	"version": "1.0.0",
+	"description": "Externs for the greensock js lib",
+	"keywords": ["google", "closure", "greensock", "externs", "dorfjungs", "javascript"],
+	"homepage": "https://github.com/Dorfjungs/greensock-closure-externs",
+	"repository": "https://github.com/Dorfjungs/greensock-closure-externs",
+	"contributors": [
+		{
+			"name": "Davide Perozzi",
+			"email": "davide@dorfjungs.com",
+			"url": "http://dorfjungs.com/"
+		}
+	],
+	"license": {
+		"type": "MIT",
+    	"url": "http://www.opensource.org/licenses/mit-license.php"
+	}
+}
